@@ -53,3 +53,7 @@ Check the [examples](/examples/) folder
 | kibana\_endpoint | Domain-specific endpoint for kibana without https scheme |
 
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+## License
+
+Apache 2 Licensed. See LICENSE for full details.
+
